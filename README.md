@@ -65,11 +65,18 @@ git log --pretty=oneline
 ```
 git push origin master
 ```
-
+#### NEW GIT VERSION: Standard push to remote
+```
+git push origin HEAD:main
+```
 
 #### To force a new push over the last commit
 ```
 git push --force origin master
+```
+#### NEW GIT VERSION: To force a new push over the last commit
+```
+git push --force origin HEAD:main
 ```
 
 
