@@ -11,7 +11,7 @@ ssh -T git@github.com
 ```
 
 ## Generating new SSH Key and Adding to GitHub
-Check this link: https://www.toolsqa.com/git/ssh-authentication-in-git/
+Check this link: https://docs.github.com/en/authentication/connecting-to-github-with-ssh
 
 ## Cloning a repository:
 ```
